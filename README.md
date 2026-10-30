@@ -25,7 +25,7 @@
 | Resource                          | Link                                                                                                                   |
 | :-------------------------------- | :--------------------------------------------------------------------------------------------------------------------- |
 | **🎨 Pitch Deck Slides (Canva)**  | **[👉 View Presentation Slides (Canva)](https://canva.link/upnutijay2qn7vn)**                                          |
-| **🚀 Live Prototype Demo**        | [https://arc-talent--emmanuelheng.replit.app/](https://arc-talent--emmanuelheng.replit.app/)                           |
+| **🚀 Live Prototype Demo**        | [https://arc-talent-dihom.vercel.app]                           |
 | **💻 GitHub Repository**          | [https://github.com/MantouOP/ArcTalent](https://github.com/MantouOP/ArcTalent)                                         |
 | **☁️ Replit Team Project**        | [https://replit.com/@EmmanuelHeng/ArcTalent](https://replit.com/@EmmanuelHeng/ArcTalent)                               |
 | **🌿 Replit Runtime Branch**      | [https://github.com/MantouOP/ArcTalent/tree/replit-runtime](https://github.com/MantouOP/ArcTalent/tree/replit-runtime) |
